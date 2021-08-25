@@ -1,0 +1,132 @@
+{
+  "boxs": [
+    {
+      "title": "Coffee (Akmaral)",
+      "type": "box",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/s600x600/239079877_386687366494791_3050490448048218545_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=xHoi-2dyf1wAX-Mc3n-&_nc_ht=scontent.ffru2-1.fna&oh=3e11ba88f7bf8ae95081f16d5874d7d1&oe=6149BB22",
+      "description": "I love drink coffe evry morning",
+      "price": "300",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "title": "Ship(Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/p526x296/239933795_386687086494819_4107767742800214810_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=uMXl5GWH7KMAX8G6rt1&_nc_ht=scontent.ffru2-1.fna&oh=eb303ae30636bfabecda9512e7efc82f&oe=614B7FA7",
+      "description": "What do you see in my gaze In this pale, shimmering gaze? - I see the deep sea in it With a sunken big ship.",
+      "price": "100",
+      "comments": [
+        {
+          "comment": "wqdqwd",
+          "user": "orunbaev03@gmail.com"
+        },
+        {
+          "comment": "qwdqwd",
+          "user": "orunbaev03@gmail.com"
+        },
+        {
+          "comment": "qwdqwd",
+          "user": "orunbaev03@gmail.com"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Forest(Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/s600x600/236783552_386687059828155_1520575970855524632_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=4PoPg_zFNUAAX9sGoEt&_nc_ht=scontent.ffru2-1.fna&oh=1a5bfe65f23f5d80b3f5fe9d9d3361cb&oe=614BB125",
+      "description": "The rains have passed, April is warming, All night - fog, and in the morning The spring air seems to melt And a soft haze turns blue In the distant glades in the forest.",
+      "price": "120",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "title": "alion",
+      "type": "other",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/p480x480/236283168_386687226494805_3513281564895309571_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=7Hch5g7PhgoAX8cjLn0&_nc_ht=scontent.ffru2-1.fna&oh=279f1e667d4d872e9777575c91370e43&oe=614C0FBB",
+      "description": "At the Arkhangelsk pier foreign ships, foreign sorrows, foreign destiny.",
+      "price": "80",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "title": "home (Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/239417156_386687026494825_4010562700377285902_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=HODd21I7XPAAX_9Rsfd&_nc_ht=scontent.ffru2-1.fna&oh=1c36404568451ea267ae19c9e3bda50d&oe=614A924F",
+      "description": "Home is where thoughts rest Where they do not \"take out the brain\" and do not shout, And they love not \"for nothing\", but \"because\", And they rejoice too - \"just like that.\"",
+      "price": "300",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "title": "In a room",
+      "type": "other",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/235832729_386686819828179_5973906867242204341_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=EyVW8vPGLJYAX8F50w8&tn=jWWB0lkorC0vycvf&_nc_ht=scontent.ffru2-1.fna&oh=f9d168c55fc6067652e9f427d1c43dec&oe=614BF7CC",
+      "description": "in a room full of art I`d still share at you",
+      "price": "400",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "title": " butterfly(Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/240330138_386686959828165_3266222486078819701_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=iHIVHa86s8AAX9i4y-P&_nc_ht=scontent.ffru2-1.fna&oh=97710932dbb11229c46f902b89c09d0c&oe=6149A1CA",
+      "description": "The BUTTERFLIES in my stomach were severely beaten by the COCKROACHES from my own head ..",
+      "price": "500",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "title": "darkness(Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/239832082_386687139828147_5082909573219898569_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=S1PcV7Clbm4AX8ll3Kj&_nc_oc=AQlovzj684ANC4-_snJq0zOjrlNndJTaEj49mfnl-GYV1p4ZbgxYfwTW9ScYtcf38lw&_nc_ht=scontent.ffru2-1.fna&oh=8fe6b78f67fd30069994a969fdd65dd2&oe=614C1166",
+      "description": "Autumn gloom hung over the city. Oaks and beeches move with their branches, And weak, short arms Shows cypress in a storm.",
+      "price": "150",
+      "comments": [],
+      "id": 9
+    },
+    {
+      "title": "Art",
+      "type": "other",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/239079945_386687106494817_3958053126029958138_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=Bw5evQz6lOgAX_xYSf6&_nc_ht=scontent.ffru2-1.fna&oh=94a04431d949d60ae6ea75acf826f564&oe=614C5043",
+      "description": "I sleep in other people's beds I'm sitting on someone else's chairs, sometimes dressed in imported clothes, I put my books on other people's shelves, - but the light it should be own production. Therefore, I make stained glass windows.",
+      "price": "50",
+      "comments": [],
+      "id": 10
+    },
+    {
+      "title": "Yssyk-Kul(Akmaral)",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/239407227_386687229828138_7634932628460230531_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=5O1Z4JATkbgAX9-ApOn&_nc_ht=scontent.ffru2-1.fna&oh=1b95e21332043849cec824579212fae7&oe=6149DD85",
+      "description": "Issyk-Kul, I always admire you. My song, be transparent, like this water ... The light of dawn that rises, Issyk-Kul, above you",
+      "price": "500",
+      "comments": [],
+      "id": 11
+    },
+    {
+      "title": "Day and Night",
+      "type": "other",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/239526585_386687389828122_703232376233186102_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=fKOCsVLsCRkAX9RrI05&_nc_ht=scontent.ffru2-1.fna&oh=87056e7cf615f6daa1b0d430e258c4f3&oe=614BEF3C",
+      "description": "Day and night are two different spaces thin lines dotted between them ... Crafted from stunning sounds and everyone has their own leitmotif ... The day is filled with bright light dazzling rays of the sun ...",
+      "price": "400",
+      "comments": [],
+      "id": 12
+    },
+    {
+      "title": "Foreigner",
+      "type": "akmaral",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/240060648_386687163161478_3146448679821172045_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=yaZMCX5004MAX8NHcoE&_nc_ht=scontent.ffru2-1.fna&oh=d23ab1c3402936ec4f44dddc2eb705f4&oe=614B3139",
+      "description": "You know      where is the station \"Revolution square\"? Gum here      I'm a foreigner saw on the street. Not one of those         which for fun sent to us           offices round-the-world flights. Not one of those      that using stock market calm looking for    all the way to the pole, where more exotic.",
+      "price": "700",
+      "id": 13
+    },
+    {
+      "title": "Light we can't see",
+      "type": "other",
+      "image": "https://scontent.ffru2-1.fna.fbcdn.net/v/t1.6435-9/235828682_383605533469641_6921852228365845448_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=WoKO2PEq8HMAX_sZELd&_nc_ht=scontent.ffru2-1.fna&oh=e88856f032331e04d0337ed65f2e14d2&oe=614B4C59",
+      "description": "Answer frankly, cynical night villain: Do you and I, by fate, will never merge into \"us\"? You wake up my devils with your coming, And they fill the glasses, starting to dance.",
+      "price": "300",
+      "id": 14
+    }
+  ]
+}
